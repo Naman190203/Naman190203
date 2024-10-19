@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width=400 src="https://i0.wp.com/media1.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 <p align="left">
-<a href="https://linkedin.com/in/naman agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naman Agarwal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/agarwalnaman4816/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naman Agarwal" height="30" width="40" /></a>
 <a href="https://instagram.com/n.mm.nnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.mm.nnnn" height="30" width="40" /></a>
 </p>
 
